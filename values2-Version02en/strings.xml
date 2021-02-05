@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="jzjtejuejuejueju"></string>
-  <string name="title">Los geht\'s</string>
+  <string name="title">Let\'s go</string>
   <string name="akku">Der Akku ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.</string>
-  <string name="forgete_test">\nForget vehicle%d_test</string>
-  <string name="key">de</string>
-  <string name="forget">\nfahrzeug entfernen%d</string>
+  <string name="forgete_test">Forget vehicle%d_test</string>
+  <string name="forgeta">delete vehicle%d</string>
+  <string name="Bluetooth">please turn on Bluetooth</string>
 </resources>

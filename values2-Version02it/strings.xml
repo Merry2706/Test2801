@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="jzjtejuejuejueju"></string>
-  <string name="title">vfsdbsb</string>
-  <string name="akku">bbw</string>
+  <string name="title">Andiamo</string>
+  <string name="akku">La batteria è quasi scarica!\n Rimuovere \"la batteria\" e caricarla.\n Questo aiuta a prolungare la durata della batteria.</string>
   <string name="forgete_test">description</string>
-  <string name="key"></string>
-  <string name="forget"></string>
+  <string name="forgeta">eliminare il veicolo%d</string>
+  <string name="Bluetooth">per favore attiva il Bluetooth</string>
 </resources>
