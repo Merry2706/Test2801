@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <string name="jzjtejuejuejueju"></string>
-  <string name="title">Begin hier </string>
-  <string name="akku">De accu is bijna leeg! \nVerwijder \"de accu\" en laad deze op.\n Daarmee help je de levensduur te verlengen.</string>
-  <string name="forgete_test">\nDe vehicle vergeten</string>
-  <string name="key"></string>
-  <string name="forget">I have %.2f</string>
-</resources>
