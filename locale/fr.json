@@ -1,8 +1,7 @@
 {
-    "\/\/jzjtejuejuejueju": "",
     "title": "C'est parti",
-    "akku": "La batterie est presque vide !\n Retire la \"batterie\" pour la recharger. \nCela contribue à augmenter sa durée de vie.",
-    "forgete_test": "\nIgnorer l'vehicle en cours%d",
-    "key": "",
-    "forgeta": ""
+    "akku": "La batterie est presque vide !\nRetire la \"batterie\" pour la recharger. \nCela contribue à augmenter sa durée de vie.",
+    "forgete_test": "Oubliez le véhicule %d_test",
+    "forgeta": "supprimer le véhicule%d",
+    "Bluetooth": "veuillez activer Bluetooth"
 }

@@ -1,8 +1,7 @@
 {
-    "\/\/jzjtejuejuejueju": "",
-    "title": "Begin hier ",
+    "title": "Begin hier",
     "akku": "De accu is bijna leeg! \nVerwijder \"de accu\" en laad deze op.\n Daarmee help je de levensduur te verlengen.",
-    "forgete_test": "\nDe vehicle vergeten",
-    "key": "",
-    "forgeta": "I have"
+    "forgete_test": "De vehicle vergeten",
+    "forgeta": "delete vehicle%d",
+    "Bluetooth": "Schakel Bluetooth in"
 }

@@ -1,8 +1,7 @@
 {
-    "\/\/jzjtejuejuejueju": "",
-    "title": "Los geht's",
+    "title": "Let's go",
     "akku": "Der Akku ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.",
-    "forgete_test": "\nForget vehicle%d_test",
-    "key": "de",
-    "forgeta": "\nfahrzeug entfernen%d"
+    "forgete_test": "Forget vehicle%d_test",
+    "forgeta": "delete vehicle%d",
+    "Bluetooth": "please turn on Bluetooth"
 }
